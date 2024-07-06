@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **React,SQL,PHP**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **risheekojha@gmail.com**
 
