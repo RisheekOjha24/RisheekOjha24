@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risheek Ojha</h1>
-<h3 align="center">Your friendly neighbourhood code magician! I speak fluent MERN stack and PHP, SQL, WordPress are like my second language. When I'm not crafting pixel-perfect websites, you'll find me chasing down bugs or debating the best code editor over a cup of coffee.</h3>
+<h3 align="center">Your friendly neighbourhood code magician! I speak fluent MERN stack and SQL, WordPress are like my second language. When I'm not crafting pixel-perfect websites, you'll find me chasing down bugs or debating the best code editor over a cup of coffee.</h3>
 
 - 🌱 I’m currently learning **Springboot**
 
