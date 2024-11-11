@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Risheek Ojha</h1>
-<h3 align="center">Your friendly neighbourhood code magician! I speak fluent MERN stack and SQL, WordPress are like my second language. When I'm not crafting pixel-perfect websites, you'll find me chasing down bugs or debating the best code editor over a cup of coffee.</h3>
+<h3 align="center">Your friendly neighborhood code sorcerer! Proficient in React, Angular, MongoDB, Node, Express, Java, and Spring Boot,SQL are my loyal sidekick. When I'm not conjuring up seamless user experiences, you'll find me hunting bugs or passionately debating the ultimate code editor, all with a cup of coffee in hand.</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Full Stack**
 
